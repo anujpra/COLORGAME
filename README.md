@@ -7,4 +7,6 @@ In easy mode you will have to choose correct color out of three box whereas in h
 
 Component
 It is made only on front end. It includes html, css and javascript only.
+Cloning
+To clone entire repository run git clone https://github.com/anujpra/COLORGAME.git on your machine.
 
