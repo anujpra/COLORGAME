@@ -14,5 +14,6 @@ To clone entire repository run git clone https://github.com/anujpra/COLORGAME.gi
 
 Steps
 
-To view the game go to this URL 
+To view the game go to this URL https://stark-river-50691.herokuapp.com/
+
 
