@@ -11,6 +11,8 @@ It is made only on front end. It includes html, css and javascript only.
 Cloning
 
 To clone entire repository run git clone https://github.com/anujpra/COLORGAME.git on your machine.
+
 Steps
+
 To view the game go to this URL 
 
