@@ -1,4 +1,5 @@
 COLOR GAME PROJECT
+
 Intro
 This project includes a game in which you will have to guess color provided rgb color code. It includes easy mode as well as hard mode.
 
